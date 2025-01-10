@@ -9,7 +9,8 @@
 ## 18.10.2024
 
 - [ ] Modul 295 Aufträge
-- [ ] 
+- [ ] Auftrag 6404
+- [ ] Auftrag 6407
 
 Heute habe ich...
 
