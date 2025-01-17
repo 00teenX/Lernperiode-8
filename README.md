@@ -17,10 +17,16 @@ Heute habe ich an den Teilaufträgen 3 und 4 gearbeitet. Im Teilauftrag 3 habe i
 ## 17.01.2025
 
 - [ ] Modul 295
-- [ ] Auftrag 6404
-- [ ] Auftrag 6407
+- [ ] WebAPI nochmal einrichten
+- [ ] SQL Server Installieren
+- [ ] Datenbank verbinden mit Rider (Im Moment Probleme, weil es anderst als auf Windows ist)
 
 Heute habe ich...
 
+## 24.01.2025
+
+- [ ] 
+
+Heute habe ich...
 
 
