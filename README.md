@@ -25,8 +25,15 @@ Heute habe ich...
 
 ## 24.01.2025
 
-- [ ] 
+- [ ] Modul 347
+- [ ] Auftrag 2043
+- [ ] Auftrag 2061 
 
 Heute habe ich...
 
+## 14.02.2025
+
+- [ ] Modul 347 Vorbereitung für Test am 17.02.2025
+
+Heute habe ich... 
 
