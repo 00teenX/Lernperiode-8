@@ -16,12 +16,12 @@ Heute habe ich an den Teilaufträgen 3 und 4 gearbeitet. Im Teilauftrag 3 habe i
 
 ## 17.01.2025
 
-- [ ] Modul 295
-- [ ] WebAPI nochmal einrichten
-- [ ] SQL Server Installieren
-- [ ] Datenbank verbinden mit Rider (Im Moment Probleme, weil es anderst als auf Windows ist)
+- [x] Modul 295
+- [x] WebAPI nochmal einrichten
+- [x] SQL Server Installieren
+- [x] Datenbank verbinden mit Rider (Im Moment Probleme, weil es anderst als auf Windows ist)
 
-Heute habe ich...
+Heute habe ich die WebAPI erneut eingerichtet und den SQL Server installiert. Dabei gab es anfangs Probleme mit der Verbindung zur Datenbank, da die Einrichtung auf dem Mac anders ist als auf Windows. Nach einigen Anpassungen konnte ich die Verbindung erfolgreich herstellen und die Datenbank in Rider integrieren. Jetzt läuft alles stabil und ich kann weiterarbeiten. {56 Wörter}
 
 ## 24.01.2025
 
