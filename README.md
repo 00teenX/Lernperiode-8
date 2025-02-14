@@ -31,9 +31,3 @@ Heute habe ich die WebAPI erneut eingerichtet und den SQL Server installiert. Da
 
 Heute habe ich erfolgreich die Aufträge 2043 und 2061 zu Modul 347 gelöst. Ich habe gelernt, wie man mit Docker Compose, Container startet und Umgebungsvariablen in einer .env-Datei verwaltet. Besonders spannend fand ich die Möglichkeit, Container einfacher und flexibler zu konfigurieren. Die Arbeit mit Variablen hat mir gezeigt, wie wichtig eine saubere Struktur für skalierbare Anwendungen ist. Obwohl einige Befehle anfangs ungewohnt waren, habe ich sie mit der Zeit besser verstanden. Insgesamt bin ich zufrieden mit meiner Arbeit und finde es war ein produktiver Tag. {85 Wörter}
 
-## 14.02.2025
-
-- [ ] Modul 347 Vorbereitung für Test am 17.02.2025
-
-Heute habe ich... 
-
